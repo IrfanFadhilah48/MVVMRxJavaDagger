@@ -1,0 +1,11 @@
+
+Welcome to Gradle 6.1.1!
+
+Here are the highlights of this release:
+ - Reusable dependency cache
+ - Configurable compilation order between Groovy/Kotlin/Java/Scala
+ - New sample projects in Gradle's documentation
+
+For more details see https://docs.gradle.org/6.1.1/release-notes.html
+
+Starting a Gradle Daemon, 1 incompatible and 2 stopped Daemons could not be reused, use --status for details
